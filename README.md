@@ -10,7 +10,7 @@ Como desenvovedor de sistemas, minha paixão é codificar e solucionar  problema
 Eu sou  estudante da Universidade Anhanguera, cursando o terceiro semestre do curso de Análise e Desenvol de Sistemas, com previsão de conclusão para dezembro de 2023.
 
 * 🌍  Moro em São Paulo,Brasil
-* ✉️  You can contact me at [osmar.cerqueira@gmail.com(mailto:osmar.cerqueira@gmail.com)
+* ✉️  You can contact me at [osmar.cerqueira@gmail.com]
 * 🧠  I'm learning Advanced Javascript, Unit Tests and linguajem de progrmação c#
 * 🤝  Estou apto e motivado a contribuir em projetos de alta relevância e impacto significati na qualidade de vida das pessoas.
 * ⚡  I love sports 
