@@ -71,7 +71,7 @@ pessoas.
             width="36" height="36" alt="Heroku" /></a>
 </p>
 
-### Socials //OsmarCerqueira#5098
+### Socials 
 
 <p align="left"> <a href="#" target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
@@ -103,7 +103,7 @@ pessoas.
         src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"
         alt="Top Languages" /></a>
 
-### Support Me
+### Portfolio
 
 <a href="#"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
         width="150" /></a>
