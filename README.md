@@ -2,7 +2,7 @@
 Hi 👋 My name is Osmar
 ==========================
 
-Full Stack Software Dev
+Desenvolvedor de Software
 -----------------------------
 
 Como desenvovedor de sistemas, minha paixão é codificar e solucionar problemas complexos com tecnologias de ponta .
