@@ -2,7 +2,7 @@
 Hi 👋 My name is Osmar
 ==========================
 
- Software Dev
+Full Stack Software Dev
 -----------------------------
 
 Como desenvovedor de sistemas, minha paixão é codificar e solucionar problemas complexos com tecnologias de ponta .
@@ -99,6 +99,9 @@ pessoas.
         src="https://github-readme-activity-graph.cyclic.app/graph?username=osmar-tech&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
         alt="GitHub Commits Graph" /></a>
 
+<a href="https://github.com/osmar-tech" align="left"><img
+        src="https://github-readme-stats-osmar-tech.vercel.app/api/top-langs/?username=osmar-tech&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages"
+        alt="Top Languages" /></a>
 
 ### Portfolio
 
