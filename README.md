@@ -18,8 +18,6 @@ com previsão de conclusão para dezembro de 2023.
 pessoas.
 * ⚡ I love sports
 
-<a href="https://github.com/osmar-tech" target="_blank" rel="noreferrer"><img
-        src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 
