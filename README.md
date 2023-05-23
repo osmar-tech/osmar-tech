@@ -1,8 +1,8 @@
-
+### Hi there 👋
 Hi 👋 My name is Osmar
 ==========================
 
-Desenvolvedor de Software
+ Software Dev
 -----------------------------
 
 Como desenvovedor de sistemas, minha paixão é codificar e solucionar problemas complexos com tecnologias de ponta .
@@ -95,9 +95,7 @@ pessoas.
 <a href="https://github.com/osmar-tech"><img
         src="https://github-readme-streak-stats.herokuapp.com/?user=osmar-tech&stroke=ffffff&background=171717&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/osmar-tech"><img
-        src="https://github-readme-activity-graph.cyclic.app/graph?username=osmar-tech&bg_color=171717&color=ffffff&line=3382ed&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
-        alt="GitHub Commits Graph" /></a>
+
 
 
 
