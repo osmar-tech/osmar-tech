@@ -79,7 +79,7 @@ pessoas.
             width="32" height="32" /></a> <a href="https://www.linkedin.com/in/osmar-cerqueira-645083227/"
         target="_blank" rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-            width="32" height="32" /></a><a href="#" target="_blank" rel="noreferrer"><img
+            width="32" height="32" /></a><a href="#" target="_blank" rel="noreferrer"><img<br>
       
 
 ### Portfolio 
