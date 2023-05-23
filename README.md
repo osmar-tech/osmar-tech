@@ -82,7 +82,7 @@ pessoas.
             width="32" height="32" /></a><a href="#" target="_blank" rel="noreferrer"><img<br>
       
 
-### Portfolio 
+### Portfoli
 
 <a href="#"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"
         width="150" /></a>
